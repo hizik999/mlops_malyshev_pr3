@@ -1,6 +1,11 @@
 outs:
+<<<<<<< HEAD
 - md5: fb1b61f4771d30feadd39d21a4446e1b.dir
   size: 27254
+=======
+- md5: 0c9052c4e27b4de2107f74607a144097.dir
+  size: 30289
+>>>>>>> data_exp1
   nfiles: 2
   hash: md5
   path: data
